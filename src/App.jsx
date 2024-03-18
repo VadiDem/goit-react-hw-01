@@ -3,7 +3,7 @@ import FriendList from "./components/friendList/FriendList";
 import TransactionHistory from "./components/transactionHistory/TransactionHistory";
 import userData from "../src/userData.json";
 import friends from "../src/friends.json";
-import transactions from "../src/transactions.json";
+import transactions from "./friends.json";
 import "./App.css";
 
 export default function App() {
